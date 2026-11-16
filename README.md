@@ -14,3 +14,12 @@ My goal is to work as an IT Specialist / Network and System Administrator.
 | [Basic Cyber Security](certificates/featured/basic-cyber-security.jpeg) | ____ | ____ |
 | [Python Django](certificates/featured/python-django.pdf) | ____ | ____ |
 | [Git and GitHub](certificates/featured/git-and-github.heic) | LTC | ____ |
+
+## Other Certificates
+
+The remaining certificates are in the `certificates/other/` folder.
+
+## Note
+
+Certificates show what I have studied. My notes and practical work
+are in my other repositories, such as `it-learning-notes`.
